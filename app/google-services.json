@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428925281629",
+    "project_id": "fcm-push-notification-2a82d",
+    "storage_bucket": "fcm-push-notification-2a82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428925281629:android:30eaa18cbab0c04309b4b4",
+        "android_client_info": {
+          "package_name": "com.walt.archesoftronix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428925281629-6som5tbc02llphrlutqdnnoebgg54hv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4gkRT8EeBIZ1v3ZtV7TkN2prcBzvecY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428925281629-6som5tbc02llphrlutqdnnoebgg54hv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
